@@ -13,7 +13,7 @@ Download nightly builds from continuous integration:
 
 | OS      | status                                     |
 |---------|--------------------------------------------|
-| Windows | [![Status][s9x-win-all]][cirrus-ci]        |
+| Windows | [![Status][s9x-win-all]][appveyor]        |
 | Linux   | [![Status][snes9x_linux-amd64]][cirrus-ci] |
 | macOS   | [![Status][snes9x_macOS-amd64]][cirrus-ci] |
 
